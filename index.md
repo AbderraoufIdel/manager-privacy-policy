@@ -48,7 +48,7 @@ We use reasonable measures to help protect your information from loss, theft, mi
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
 ### 6. Contact Us
-abderraoufidel@gmail.com
+
 If you have any questions about this Privacy Policy, you can contact us at:
 
-[your.email@example.com]
+abderraoufidel@gmail.com
