@@ -1,5 +1,3 @@
-# Privacy Policy for Manager
-
 **Last Updated:** [September 15, 2025]
 
 This Privacy Policy describes how Abderraouf IDEL ("we," "us," or "our") collects, uses, and shares information in connection with your use of our mobile application, Manager.
