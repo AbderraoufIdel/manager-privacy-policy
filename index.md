@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 # Privacy Policy for Manager
 
 **Last Updated:** [September 15, 2025]
